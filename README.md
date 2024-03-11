@@ -1,8 +1,8 @@
 Dataset:
 ## UCI Machine Learning Repository - Connectionist Bench (Sonar, Mines vs. Rocks)
 Sejnowski,Terry and Gorman,R.. Connectionist Bench (Sonar, Mines vs. Rocks). UCI Machine Learning Repository. https://doi.org/10.24432/C5T01Q.
-
-#####  
+  
+#####    
 SpotOnCheck    
 Sonar Ensemble is a Showcase Project to introduce simple Ensemble Methods and the effects of Tuning Hyperparameters.
 With a variety of different classifiers, we want to get a first look and start a comparision of classifiers. Since the dataset
