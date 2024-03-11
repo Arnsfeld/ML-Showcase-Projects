@@ -3,17 +3,17 @@ Dataset:
 Sejnowski,Terry and Gorman,R.. Connectionist Bench (Sonar, Mines vs. Rocks). UCI Machine Learning Repository. https://doi.org/10.24432/C5T01Q.
 
 #####
-SpotOnCheck
+SpotOnCheck  
 Sonar Ensemble is a Showcase Project to introduce simple Ensemble Methods and the effects of Tuning Hyperparameters.
 With a variety of different classifiers, we want to get a first look and start a comparision of classifiers. Since the dataset
 is a classification problem, we start via comparing the logloss metric.
 Without surprise, tree-based boosting models are performing best, so we keep these models for the next step.
 ##
-Building Ensemble
+Building Ensemble  
 Regarding for creating a suitable benchmark, we take the best models and compare their results with a stacking classifier and a soft voting classifier aswell on it.
 There is a good performance boost visible with the soft voting classifier.
 ##
-Hyperparameter Tuning
+Hyperparameter Tuning  
 For the inidividual models, we are performing a Hyperparameter Search with Optuna. The best performing parameters for the corresponding models are saved.
 ##
 Ensembles with tuned Hyperparameter
