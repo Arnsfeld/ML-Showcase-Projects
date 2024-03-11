@@ -1,5 +1,5 @@
-Dataset:
-## UCI Machine Learning Repository - Connectionist Bench (Sonar, Mines vs. Rocks)
+Dataset:  
+UCI Machine Learning Repositry - Connectionist Bench (Sonnar, Mines vs. Rocks)
 Sejnowski,Terry and Gorman,R.. Connectionist Bench (Sonar, Mines vs. Rocks). UCI Machine Learning Repository. https://doi.org/10.24432/C5T01Q.
   
 #####    
