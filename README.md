@@ -6,6 +6,6 @@ ML Repo is a repository for quick view and guidance of using ml related techniqu
 
 ShowCase Projects
 
-SonarEnsemble
+SonarEnsemble  
 Creating Ensembles on the Sonar Dataset, evaluate them against single models.
 Perform Hypertuning with Optuna and re-evaluate again.
