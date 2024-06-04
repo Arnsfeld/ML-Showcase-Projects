@@ -1,10 +1,10 @@
 In general, machine learning algorithms aim to optimise a certain metric. Due to large and complex data it is not known a priori which algorithms and techniques perform well.
 Machine Learning has a heavy exploratory component. Various methods evolved to adress the issue.
 
-Dimensionality Reduction
+Dimensionality Reduction\\
 High-dimensional data can be computional expensive and can mask crucial features. Transforming data to lower dimension reduce computational complexity and also can extract key components of features.
 
-Ensembles
+Ensembles\\
 Various models can capture key aspects of feature interactions. So usually combining different ml models to one ensemble model will result in higher metric yield.
 
 Feature Engineering
