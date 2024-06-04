@@ -1,6 +1,3 @@
-ML Showcase Projects contains a variety of projects to highlight different ML related skills.
-
-
 Sonar Ensemble
 
 Sonar Ensemble contains my intial framework facing ML competitions.
